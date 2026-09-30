@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ]
@@ -221,7 +221,7 @@
   },
   "active": "2eb49ec362fec943",
   "lastOpenFiles": [
-    "README.md.md",
+    "README.md",
     "obsidian-plus.png",
     "Vault.md",
     "Lecture/Lecture.md",
