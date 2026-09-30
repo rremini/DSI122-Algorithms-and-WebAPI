@@ -1,5 +1,4 @@
-![[obsidian-plus.png]]
-
+![Obsidian Setup](./obsidian-plus)
 # Quick Start
 This repository is designed to be viewed as an **Obsidian Vault**. Follow the steps below to set up your environment: 
 ### 1. Install Obsidian Download and install Obsidian for your operating system:  
