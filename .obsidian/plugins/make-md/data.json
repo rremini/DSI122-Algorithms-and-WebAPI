@@ -42,7 +42,8 @@
     "//Tags",
     "//LAB/LAB/LAB04",
     "//Lecture",
-    "//Lecture/Lecture/Basic Data Structures"
+    "//Lecture/Lecture/Basic Data Structures",
+    "//assets"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
