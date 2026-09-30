@@ -1,5 +1,7 @@
 ---
-banner: pixel-banner-images/images.jpg
+banner: "pixel-banner-images/images.jpg"
+sticker: lucide//flame
+color: var(--mk-color-pink)
 ---
 
 > [!important] แนวข้อสอบ
