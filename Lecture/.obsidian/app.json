@@ -1,0 +1,18 @@
+{
+  "newFileLocation": "root",
+  "newFileFolderPath": "Activity Diagrams/Images",
+  "attachmentFolderPath": "/Images",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "vimMode": false
+}

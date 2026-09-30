@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1788602746014,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1788602746014,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1788602746014,
+              "items": [],
+              "title": "Images"
+            }
+          ],
+          "title": "Cyber Security"
+        },
+        {
+          "type": "group",
+          "ctime": 1788602746014,
+          "items": [],
+          "title": "Images"
+        }
+      ],
+      "title": "sortspec"
+    },
+    {
+      "type": "file",
+      "ctime": 1789032361966,
+      "path": "Cyber Security/WEEK 01/First Step.md",
+      "title": "First Step"
+    }
+  ]
+}

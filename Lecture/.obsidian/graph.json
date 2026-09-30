@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Cyber Security/WEEK 04\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Cyber Security/WEEK 02\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Cyber Security/Week 01\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Cyber Security\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 0.960753741283397,
+  "lineSizeMultiplier": 1.99191299498048,
+  "collapse-forces": true,
+  "centerStrength": 0.207632857939606,
+  "repelStrength": 9.42772861356932,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.32301157888117016,
+  "close": true
+}

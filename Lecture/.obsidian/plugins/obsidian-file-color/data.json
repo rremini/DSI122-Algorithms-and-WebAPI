@@ -1,0 +1,22 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "bITinhxu7PoUufnJiTHTe",
+      "name": "Test",
+      "value": "#ff7a7a"
+    },
+    {
+      "id": "bJojJa8S1P70hKti-4eXd",
+      "name": "Testv2",
+      "value": "#ff2483"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Class Materials",
+      "color": "bITinhxu7PoUufnJiTHTe"
+    }
+  ]
+}
