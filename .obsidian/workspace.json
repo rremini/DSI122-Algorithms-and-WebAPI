@@ -26,12 +26,15 @@
             "id": "111ad59c4e84ec7a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Lecture/Basic Data Structures/Linked List"
+                "file": "Lecture/Basic Data Structures/Linked List/Skip List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linked List"
+              "title": "Skip List"
             }
           }
         ],
@@ -250,16 +253,16 @@
       "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "323ab84325b789aa",
+  "active": "111ad59c4e84ec7a",
   "lastOpenFiles": [
-    "Lecture/Basic Data Structures/Linked List/Linked List.md",
-    "Lecture/Basic Data Structures/Linked List/Singly Linked Lists.md",
-    "Lecture/Basic Data Structures/Linked List/Skip List.md",
     "Lecture/Basic Data Structures/Linked List/Sparse Table.md",
+    "Lecture/Basic Data Structures/Linked List/Skip List.md",
     "Lecture/Basic Data Structures/Linked List/Doubly Linked List.md",
+    "Lecture/Basic Data Structures/Linked List/Singly Linked Lists.md",
+    "Lecture/Basic Data Structures/Stack & Queue.md",
+    "Lecture/Basic Data Structures/Linked List/Linked List.md",
     "Pasted image 20261001081607.png",
     "Doubly Linked Lists.md",
-    "Lecture/Basic Data Structures/Stack & Queue.md",
     "Lecture/Common Runtime/Factorial Function.md",
     "Lecture/Brute Force/Knapsack Problem.md",
     "Lecture/Brute Force/Traveling Salesman Problem.md",
