@@ -43,7 +43,13 @@
     "//LAB/LAB/LAB04",
     "//Lecture",
     "//Lecture/Lecture/Basic Data Structures",
-    "//assets"
+    "//Lecture/Lecture/Algorithmic Complexity",
+    "//Lecture/Lecture/Sorting Algorithms",
+    "//Lecture/Lecture/Problem Solving Techniques",
+    "//Lecture/Lecture/Exam",
+    "//Lecture/Lecture/Brute Force",
+    "//Lecture/Lecture/Common Runtime",
+    "//Lecture/Lecture/Basic Data Structures/Lecture/Basic Data Structures/Linked List"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

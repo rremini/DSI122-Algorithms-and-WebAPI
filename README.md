@@ -1,9 +1,11 @@
 ![Obsidian Setup](assets/obsidian-plus.png)
 # Quick Start
 This repository is designed to be viewed as an **Obsidian Vault**. Follow the steps below to set up your environment: 
-### 1. Install Obsidian Download and install Obsidian for your operating system:  
+### 1. Install Obsidian 
+Download and install Obsidian for your operating system:  
 [Download Obsidian](https://obsidian.md/download) 
-### 2. Clone the Repository Clone this repository to your local machine: 
+### 2. Clone the Repository 
+Clone this repository to your local machine: 
 
 ```
 git clone https://github.com/rremini/DSI122-Algorithms-and-WebAPI.git

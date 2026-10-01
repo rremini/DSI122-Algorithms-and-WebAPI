@@ -1,5 +1,5 @@
 ---
-banner: pixel-banner-images/Divide_Conquer_logo.jpg
+banner: "pixel-banner-images/Divide_Conquer_logo.jpg"
 ---
 
 ![[Pasted image 20260922124059.png]]

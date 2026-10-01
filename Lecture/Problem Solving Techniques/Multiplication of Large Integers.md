@@ -1,5 +1,5 @@
 ---
-banner: pixel-banner-images/maxresdefault.jpg
+banner: "pixel-banner-images/maxresdefault.jpg"
 ---
 ### แนะนำให้ดู
 ```embed
